@@ -3,3 +3,9 @@ Biomedical sciences are a set of sciences to develop knowledge and technology th
 Biomedical data science is a growing new filed involves the analysis of large-scale biomedical datasets to understand how biologic systems function, disease mechanisms, discover new drugs and improve health care at cheaper costs. 
 # Research in Biomedical Data Science
 Important scientific fields in Biomedical Data Science include:
+- Computational Science
+
+  Using computing technology to address broad questions in personalized medicine
+- Machine Learning 
+- Biomedical Data
+- 
