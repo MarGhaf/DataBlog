@@ -5,18 +5,18 @@ Biomedical data science is a growing new filed involves the analysis of large-sc
 Important scientific fields in Biomedical Data Science include:
 - Computational Science
 
-Using computing technology to address broad questions in personalized medicine.
+  Using computing technology to address broad questions in personalized medicine.
 
 - Biomedical Data
 
 
-Health care data, genomic data, and sensor data are big data sets that biomedical researchers must manage them carfully. 
+  Health care data, genomic data, and sensor data are big data sets that biomedical researchers must manage them carfully. 
   
 - Machine Learning 
 
-Deep learning system (also known as deep structured learning) is part of a broader family of machine learning methods based on artificial neural networks have been applied to fields including bioinformatics, drug design, medical image analysis. 
+  Deep learning system (also known as deep structured learning) is part of a broader family of machine learning methods based on artificial neural networks have been applied to fields including bioinformatics, drug design, medical image analysis. 
 
-# Componies in Biomedical Data Science
+# Companies in Biomedical Data Science
 
 ![image](https://user-images.githubusercontent.com/101681195/175839500-ab75cd3b-11f4-4b27-8b6d-036a0b60759a.png)
 
