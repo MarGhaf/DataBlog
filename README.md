@@ -26,4 +26,9 @@ For more information visit  website [BenchSci Website ](https://www.benchsci.com
 
 
 
+![image](https://user-images.githubusercontent.com/101681195/175840823-139c978c-b262-4b05-a38d-a859245d3075.png)
+
+**Prognos** is a healthcare data marketplace that simplifies the data selection and contracting process by providing a self-service online destination where customers can easily curate and purchase the health data that they need it. . They are integrating billions of data including harmonized lab data on 325M de-identified patients from multiple sources including lab results, prescription and medical claims. 
+
+For more information visit  website [Prognos Website ](https://prognoshealth.com/).
 
