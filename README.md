@@ -18,4 +18,10 @@ Deep learning system (also known as deep structured learning) is part of a broad
 
 # Componies in Biomedical Data Science
 
+![image](https://user-images.githubusercontent.com/101681195/175839500-ab75cd3b-11f4-4b27-8b6d-036a0b60759a.png)
+
+BenchSci is the advanced reagent selection technology in life-saving research. BenSci uses Al trained to read and understand the world’s published experimental evidence to help finding the best reagent for researchers. Currently, over 48,700 scientists in 16 of the top 20 pharmaceutical companies and more than 4,450 academic institutions use BenchSci’s AI-Assisted Antibody Selection to plan more successful experiments, with proven savings of millions per year in hard costs alone. 
+For more information visit their website 
+
+
 
