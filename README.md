@@ -43,3 +43,11 @@ For more information visit  website [Prognos Website ](https://prognoshealth.com
 
 For more information visit  website [Scailyte Website ](https://scailyte.com/).
 
+![image](https://user-images.githubusercontent.com/101681195/176069107-1289ce16-51ac-4081-9d15-223de856e324.png)
+
+
+**DeepTox** DeepTox is group from university of Linz that developed performance of Deep Learning in computational toxicity prediction. DeepTox normalizes the chemical representations of the compounds. Then it computes a large number of chemical descriptors that are used as input to machine learning methods. In its next step, DeepTox trains models, evaluates them, and combines the best of them to ensembles. Finally, DeepTox predicts the toxicity of new compounds.
+
+For read more about their platform check their [published Article](https://www.frontiersin.org/articles/10.3389/fenvs.2015.00080/full)
+
+
