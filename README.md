@@ -56,3 +56,10 @@ For read more about their platform check their [published Article](https://www.f
 
 For more information visit  website [Schrodinger Website ](https://www.schrodinger.com/).
 
+![image](https://user-images.githubusercontent.com/101681195/176072555-7e041029-7b28-4da2-a9fc-a313203789cf.png)
+
+Evotec is a German biotechnology company announced a phase 1 clinical trial on a new anticancer molecule designed by Exscientia’s ‘Centaur Chemist’ AI design platform. The traditional discovery process of  4–5 years to come up with the drug candidate was reduced to 8 months by using AI platform . This system can computationally sort through and compare various properties of millions of potential A2 receptor antagonist designed to help T cells fight solid tumors, looking for 10 or 20 to synthesize, test and optimize in lab experiments before selecting the final drug candidate for clinical trials.
+
+For more information visit  website [Evotec Website ](https://www.evotec.com/en).
+
+
