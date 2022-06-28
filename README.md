@@ -24,6 +24,11 @@ Important scientific fields in Biomedical Data Science include:
 
 For more information visit  website [BenchSci Website ](https://www.benchsci.com/).
 
+![image](https://user-images.githubusercontent.com/101681195/176064735-87471e42-4004-4007-b1dc-0771473bfe15.png)
+
+**DeepMind Technologies** is AI research laboratory acquired by Google. DeepMind turned its AI to predict proteins’ 3D structure. The AlphaFold (protein structure database) builds on decades of studies done by scientists using traditional methods to determine the structure of proteins. Predicting the exact structure of a protein remains an expensive and often time-consuming process. Finding a way to predict the structure of millions of unknown proteins could help us tackle disease and more quickly find new medicines. 
+
+For more information visit  website [DeepMind Website ](https://www.deepmind.com/).
 
 
 ![image](https://user-images.githubusercontent.com/101681195/175840823-139c978c-b262-4b05-a38d-a859245d3075.png)
