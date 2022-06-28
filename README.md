@@ -48,6 +48,11 @@ For more information visit  website [Scailyte Website ](https://scailyte.com/).
 
 **DeepTox** is group from university of Linz that developed performance of Deep Learning in computational toxicity prediction. DeepTox normalizes the chemical representations of the compounds. Then it computes a large number of chemical descriptors that are used as input to machine learning methods. In its next step, DeepTox trains models, evaluates them, and combines the best of them to ensembles. Finally, DeepTox predicts the toxicity of new compounds.
 
-For read more about their platform check their [published Article](https://www.frontiersin.org/articles/10.3389/fenvs.2015.00080/full)
+For read more about their platform check their [published Article](https://www.frontiersin.org/articles/10.3389/fenvs.2015.00080/full).
 
+![image](https://user-images.githubusercontent.com/101681195/176071775-b5efbf4f-27cb-43e7-89eb-67741324e647.png)
+
+**Schrödinger** is a physics-based computational platform leverages a deep understanding of physics, chemistry, and predictive modeling to predict properties of potential small-molecule drug candidates such as their binding affinity for protein targets. Schrödinger’s biologics drug discovery tools enable researchers to discover high-quality, novel molecules more rapidly, at lower cost. The platform provide a unified entry point for molecular insights and access to integrated solutions for structure prediction, characterization and liability analysis and protein engineering.
+
+For more information visit  website [Schrodinger Website ](https://www.schrodinger.com/).
 
