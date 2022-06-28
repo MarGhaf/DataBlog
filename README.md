@@ -24,7 +24,7 @@ Important scientific fields in Biomedical Data Science include:
 
 For more information visit  website [BenchSci Website ](https://www.benchsci.com/).
 
-![image](https://user-images.githubusercontent.com/101681195/176064735-87471e42-4004-4007-b1dc-0771473bfe15.png)
+![image](https://user-images.githubusercontent.com/101681195/176076388-a548bd69-27bc-4951-8342-72e8767ca7a9.png)
 
 **DeepMind Technologies** is AI research laboratory acquired by Google. DeepMind turned its AI to predict proteins’ 3D structure. The AlphaFold (protein structure database) builds on decades of studies done by scientists using traditional methods to determine the structure of proteins. Predicting the exact structure of a protein remains an expensive and often time-consuming process. Finding a way to predict the structure of millions of unknown proteins could help us tackle disease and more quickly find new medicines. 
 
@@ -37,7 +37,7 @@ For more information visit  website [DeepMind Website ](https://www.deepmind.com
 
 For more information visit  website [Prognos Website ](https://prognoshealth.com/).
 
-![image](https://user-images.githubusercontent.com/101681195/176063626-33810c67-02d3-4e01-8e95-d863511d56bb.png)
+![image](https://user-images.githubusercontent.com/101681195/176076203-2dc00d45-0a8a-4ded-82f4-a93a2b309137.png)
 
 **Scailyte** is start-up specialized in using AI to discover biomarkers from high-dimensional single-cell data. AI platform combines features to integrate different datasets and uses data augmentation to extract composite biomarkers associated with different cell populations. These features result in very high discovery success rates from a limited number of samples, with actionable insights for the basis of assay development.
 
