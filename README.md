@@ -32,7 +32,7 @@ For more information visit  website [BenchSci Website ](https://www.benchsci.com
 
 For more information visit  website [Prognos Website ](https://prognoshealth.com/).
 
-![image](https://user-images.githubusercontent.com/101681195/176062447-7b401d08-dac2-49c2-8f95-615a43290fe1.png)
+![image](https://user-images.githubusercontent.com/101681195/176063459-a244ca52-8a71-4188-bea7-05483d08bd93.png)
 **Scailyte** is start-up specialized in using AI to discover biomarkers from high-dimensional single-cell data. AI platform combines features to integrate different datasets and uses data augmentation to extract composite biomarkers associated with different cell populations. These features result in very high discovery success rates from a limited number of samples, with actionable insights for the basis of assay development.
 
 For more information visit  website [Scailyte Website ](https://scailyte.com/).
