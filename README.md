@@ -67,3 +67,7 @@ For more information visit  website [Evotec Website ](https://www.evotec.com/en)
 **Kantify** is an AI technology company specialized in life sciences. They are studying on developing an AI software solution to enhance the discovery of novel therapeutics, improve pathology detection, and enable personalized medicines. Medical professionals are required to examine complex images like X-rays, CT scans and MRIs to analyze patient health and initiate diagnosis. AI-based solutions with analyze patient’s symptoms helps to narrow down the diagnosis choices. Machine Learning (ML) algorithms have the ability to ‘improve’ and ‘learn’ to recognize patterns of disease features, such as the appearance of breast cancers on mammograms as well as analyzing surrounding textural features. ML algorithms are the perfect "tool" for improved medical diagnostics since they can identify data associations that are "invisible" to the human eye.
 
 For more information visit  website [Kantify Website ](https://www.kantify.com/).
+
+![image](https://user-images.githubusercontent.com/101681195/176080029-9ea77f46-ad04-4428-ad20-fe7ede5a5486.png)
+
+
